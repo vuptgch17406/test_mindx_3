@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(6, 6, 46);
+}
+.content {
+  background-color: white;
+  width: 80%;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+.shortener {
+  width: 100%;
+  padding: 30px;
+}
+h1 {
+  font-size: 40px;
+}
+.getLink {
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.getLink input {
+  height: 30px;
+  width: 30%;
+}
+.getLink button {
+  height: 30px;
+  padding: 5px;
+}
+.domain {
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.domain button {
+  font-size: 15px;
+  padding: 5px;
+}
+.short.active {
+  background-color: rgb(6, 6, 46);
+  color: white;
+}
+p {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.show {
+  margin-top: 30px;
+  margin-left: 150px;
+  width: 20%;
+  height: 50px;
+  background-color: white;
+}
